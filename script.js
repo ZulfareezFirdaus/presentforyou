@@ -4,6 +4,6 @@ envelope.addEventListener('click', () => {
     
     setTimeout(() => {
       window.location.href = '/foryou/index.html'; // replace with your target URL
-    }, 5000); // 10 seconds
+    }, 8000); // 10 seconds
 });
 
